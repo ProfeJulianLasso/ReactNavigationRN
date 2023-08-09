@@ -1,3 +1,6 @@
 {
   "jest.autoRun": "off",
+  "cSpell.words": [
+    "Ionicons"
+  ],
 }
