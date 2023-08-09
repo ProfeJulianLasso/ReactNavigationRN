@@ -3,4 +3,7 @@
   "cSpell.words": [
     "Ionicons"
   ],
+  "conventionalCommits.scopes": [
+    "format"
+  ],
 }
